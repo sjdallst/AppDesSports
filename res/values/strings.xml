@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Die App des Sports</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="button_working">Booton</string>
+    <string name="uniquename">uniqname</string>
+    <string name="password">password</string>
+    <string name="log_in">log in</string>
+    <string name="title_activity_home_page">Die App des Sports</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
